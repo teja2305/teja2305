@@ -3,7 +3,6 @@ Hi there, I'm Sai Teja Ramacharla👋
 I'm @teja2305, an aspiring Java Full Stack Developer with a passion for coding and continuous learning.
 
 👀 I’m interested in ...
-
 Java Full Stack Development, Software Development, Web Technologies, Building and improving software solutions, Exploring new technologies,
 
 🌱 I’m currently learning ...
