@@ -3,20 +3,37 @@ Hi there, I'm Sai Teja Ramacharla👋
 I'm @teja2305, an aspiring Java Full Stack Developer with a passion for coding and continuous learning.
 
 👀 I’m interested in ...
-Java Full Stack Development, Software Development, Web Technologies, Building and improving software solutions, Exploring new technologies,
+
+Java Full Stack Development
+
+Software Development
+
+Web Technologies
+
+Building and improving software solutions
+
+Exploring new technologies
 
 🌱 I’m currently learning ...
+
 Advanced Java concepts
+
 React.js
+
 Full Stack Development Roadmap
 
 💞️ I’m looking to collaborate on ...
+
 Open-source projects
+
 Java and React.js projects
+
 Innovative software solutions
 
 📫 How to reach me ...
+
 Email: ramacharlasaiteja@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/sai-teja-ramacharla-868655245/
 
 😄 Pronouns:
