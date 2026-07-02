@@ -9,12 +9,13 @@ I'm **@teja2305**, an aspiring **Java Full Stack Developer** with a passion for 
 - Building and improving software solutions
 - Exploring new technologies
 
-### 🌱 I’m currently learning:
+### I’m currently learning:
+- Latest AI trends
 - Advanced Java concepts
 - React.js
 - Full Stack Development Roadmap
 
-### 💞️ I’m looking to collaborate on:
+###  I’m looking to collaborate on:
 - Open-source projects
 - Java and React.js projects
 - Innovative software solutions
