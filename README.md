@@ -4,6 +4,7 @@ I'm **@teja2305**, an aspiring **Java Full Stack Developer** with a passion for 
 
 ### 👀 I’m interested in:
 - Java Full Stack Development
+- Gen AI and Agentic AI
 - Software Development
 - Web Technologies
 - Building and improving software solutions
